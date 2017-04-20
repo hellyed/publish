@@ -1,0 +1,90 @@
+body
+{
+direction:rtl; text-align:right; font-family:Gisha; width:100%;
+background-image:url(../images/truecolor.jpg);
+ background-repeat:no-repeat; background-position:center; background-size:1800px 900px;
+}
+
+}
+#container{
+    display:inline-block;
+    font-size:15pt;
+    color:rgba(255, 255, 255, 0.90);
+   
+}
+
+p {
+    font-size:15px;
+    margin-right:465px;
+    color:rgba(255, 255, 255, 0.90);
+}
+#extra{ 
+    margin:5px 5px 5px 5px;
+    width:400px;
+    height:34px;
+    font-size:15px;
+    
+}
+#tlm {
+    text-align:center;
+    font-size:54px;
+    font-weight:bold;
+    color:rgba(255, 255, 255, 0.90);
+    
+}
+#BA {
+    text-align:center;
+    font-size:22px;
+    color:rgba(255, 255, 255, 0.90);
+}
+h1{
+    font-size:25px;
+    margin-right:465px;
+    color:rgba(255, 255, 255, 0.90);
+}
+
+#guidance{ 
+
+    background-image:url(../images/009-team.png);
+    background-repeat:no-repeat;
+}
+#tech{
+    background-image:url(../images/003-computer.png); background-position:bottom left;
+    background-repeat:no-repeat;
+}
+#design{
+     background-image:url(../images/010-edit-tools.png); background-position:bottom left;
+    background-repeat:no-repeat;
+}
+
+ul{list-style-type:none; 
+   
+}
+
+table, tr, th, td{
+    border: 1.5px solid rgba(255, 255, 255, 0.90);
+    border-collapse:collapse;
+    vertical-align:bottom;
+    width:750px; height:50px;
+    padding-right:3px;
+    margin-right:465px;
+    color:rgba(255, 255, 255, 0.90);
+    
+}
+td{
+    font-size:15px;
+}
+
+
+form{
+    display:inline-block;
+    color:rgba(255, 255, 255, 0.90);
+    width:300px;
+    height:200px;
+    padding:0px;
+    margin-right: 800px;
+    margin-bottom:0px;
+   
+}
+
+
